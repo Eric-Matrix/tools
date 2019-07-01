@@ -6,7 +6,7 @@ import os
 import struct
 
 """
-	python str16_bin_convert.py file1 file2
+	python str16_bin_convert.py file(can include path)
 """
 #input file 
 
